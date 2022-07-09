@@ -4,7 +4,7 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "27bebc02fdf19ec2a0ef3520cb10737522ea1dc9",
+    "commitId": "9d1c49383753c2ad6383dd316ce48730c63f6450",
     "isDirty": true,
     "modifiedFiles": [
       "repo/index-v1.jar",
@@ -15,10 +15,12 @@
       "repo/status/update.json"
     ],
     "untrackedFiles": [
-      "repo/com.aliucord.installer/en-US/icon.png",
-      "repo/com.aliucord.installer/en-US/icon_-sHJfapy3uh2b34xp7LvXjFB6jLc5YyQWrXMSL4sKNI=.png"
+      "repo/com.xc3fff0e.xmanager/en-US/icon.png",
+      "repo/com.xc3fff0e.xmanager/en-US/icon_J62aIsVv837T8XolQvJnoc-wtWwvSTNVHL6c06AFIkM=.png",
+      "repo/xyz.jmir.tachiyomi.mi/en-US/icon.png",
+      "repo/xyz.jmir.tachiyomi.mi/en-US/icon_A3KJ3WviUsKMqRinh2EeUljklS0dbPNgEYhfhVQcF-k=.png"
     ]
   },
-  "startTimestamp": 1657400525000,
+  "startTimestamp": 1657401065000,
   "subcommand": "update"
 }
