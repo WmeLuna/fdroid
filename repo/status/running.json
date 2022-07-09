@@ -4,21 +4,29 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "96bc9640884e28c943b1cc81f8ff68d68cb8f6a0",
+    "commitId": "6e160f1fa4f5008445c5f955fb6ffe8b66c3dd88",
     "isDirty": true,
     "modifiedFiles": [
       "repo/index-v1.jar",
       "repo/index-v1.json",
+      "repo/index.html",
       "repo/index.jar",
       "repo/index.xml",
-      "repo/reddit-universal.apk",
       "repo/status/running.json",
       "repo/status/update.json"
     ],
     "untrackedFiles": [
-      ".gitattributes"
+      "metadata/com.instagram.android.yml",
+      "repo/icons-120/com.instagram.android.363204615.png",
+      "repo/icons-160/com.instagram.android.363204615.png",
+      "repo/icons-240/com.instagram.android.363204615.png",
+      "repo/icons-320/com.instagram.android.363204615.png",
+      "repo/icons-480/com.instagram.android.363204615.png",
+      "repo/icons-640/com.instagram.android.363204615.png",
+      "repo/icons/com.instagram.android.363204615.png",
+      "repo/instander.apk"
     ]
   },
-  "startTimestamp": 1657383084000,
+  "startTimestamp": 1657384164000,
   "subcommand": "update"
 }
