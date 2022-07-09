@@ -4,9 +4,10 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "9d1c49383753c2ad6383dd316ce48730c63f6450",
+    "commitId": "6e835d59e21a51891509413634df49e7a841d261",
     "isDirty": true,
     "modifiedFiles": [
+      "metadata/xyz.rodit.snapmod.yml",
       "repo/index-v1.jar",
       "repo/index-v1.json",
       "repo/index.jar",
@@ -14,13 +15,8 @@
       "repo/status/running.json",
       "repo/status/update.json"
     ],
-    "untrackedFiles": [
-      "repo/com.xc3fff0e.xmanager/en-US/icon.png",
-      "repo/com.xc3fff0e.xmanager/en-US/icon_J62aIsVv837T8XolQvJnoc-wtWwvSTNVHL6c06AFIkM=.png",
-      "repo/xyz.jmir.tachiyomi.mi/en-US/icon.png",
-      "repo/xyz.jmir.tachiyomi.mi/en-US/icon_A3KJ3WviUsKMqRinh2EeUljklS0dbPNgEYhfhVQcF-k=.png"
-    ]
+    "untrackedFiles": []
   },
-  "startTimestamp": 1657401065000,
+  "startTimestamp": 1657401351000,
   "subcommand": "update"
 }
