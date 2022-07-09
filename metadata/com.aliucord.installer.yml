@@ -4,6 +4,6 @@ License: Unknown
 
 Name: Aliucord Installer
 
-AutoUpdateMode: None
+AutoUpdateMode: Version
 UpdateCheckMode: None
 CurrentVersionCode: 2147483647

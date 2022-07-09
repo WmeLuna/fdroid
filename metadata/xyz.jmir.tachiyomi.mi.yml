@@ -1,6 +1,7 @@
 AuthorName: ''
 Categories:
-- fdroid
+- Android Apps
+AutoUpdateMode: Version
 CurrentVersionCode: 2147483647
 IssueTracker: ''
 Name: Aniyomi
