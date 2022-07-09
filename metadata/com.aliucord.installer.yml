@@ -7,5 +7,5 @@ Name: Aliucord Installer
 AutoUpdateMode: Version
 UpdateCheckMode: None
 CurrentVersionCode: 2147483647
-Description: ' '
-Summary: 'test'
+Description: 'test desc'
+Summary: 'test sum'
