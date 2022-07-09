@@ -1,1 +1,2 @@
 repo/reddit-universal.apk filter=lfs diff=lfs merge=lfs -text
+repo/aniyomi.apk filter=lfs diff=lfs merge=lfs -text
