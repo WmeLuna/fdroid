@@ -4,7 +4,7 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "3d1d8dc11b28fa78a0f74dc12d49318b70fefa34",
+    "commitId": "dcdfcdb39275c98b22f23b697d7a00e9c6799ffd",
     "isDirty": true,
     "modifiedFiles": [
       "metadata/com.aliucord.installer.yml",
@@ -17,6 +17,6 @@
     ],
     "untrackedFiles": []
   },
-  "startTimestamp": 1657398180000,
+  "startTimestamp": 1657398256000,
   "subcommand": "update"
 }
