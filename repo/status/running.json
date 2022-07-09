@@ -4,15 +4,10 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "46d0c120dab1909c2c866aada47aaa9e504af7e1",
+    "commitId": "510d2dcd409d7b714e49fa4c746777d95e6eb0c8",
     "isDirty": true,
     "modifiedFiles": [
       "metadata/com.aliucord.installer.yml",
-      "metadata/com.instagram.android.yml",
-      "metadata/com.reddit.frontpage.yml",
-      "metadata/com.xc3fff0e.xmanager.yml",
-      "metadata/xyz.jmir.tachiyomi.mi.yml",
-      "metadata/xyz.rodit.snapmod.yml",
       "repo/index-v1.jar",
       "repo/index-v1.json",
       "repo/index.jar",
@@ -22,6 +17,6 @@
     ],
     "untrackedFiles": []
   },
-  "startTimestamp": 1657397731000,
+  "startTimestamp": 1657397888000,
   "subcommand": "update"
 }
