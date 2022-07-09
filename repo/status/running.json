@@ -4,19 +4,24 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "3a1cbc51b8e7db09c79b26b8cb03a27d7af08aee",
+    "commitId": "3a0a7401e60d074a495ea8e25c4754cde7fada6e",
     "isDirty": true,
     "modifiedFiles": [
-      "metadata/com.topjohnwu.magisk.yml",
       "repo/index-v1.jar",
       "repo/index-v1.json",
+      "repo/index.html",
       "repo/index.jar",
       "repo/index.xml",
       "repo/status/running.json",
       "repo/status/update.json"
     ],
-    "untrackedFiles": []
+    "untrackedFiles": [
+      "metadata/io.github.vvb2060.mahoshojo.yml",
+      "repo/io.github.vvb2060.mahoshojo/en-US/icon.png",
+      "repo/io.github.vvb2060.mahoshojo/en-US/icon_JEdJKJzoRA_x2AiDlipw1LCNpm7RKVV4X9-djAjaaqM=.png",
+      "repo/momo.apk"
+    ]
   },
-  "startTimestamp": 1657404668000,
+  "startTimestamp": 1657410937000,
   "subcommand": "update"
 }
