@@ -1,9 +1,24 @@
 {
   "/etc/issue.net": "Ubuntu 20.04.4 LTS",
   "commandLine": [
-    "/usr/bin/fdroid update",
-    "-c"
+    "/usr/bin/fdroid update"
   ],
-  "startTimestamp": 1657379817000,
+  "fdroiddata": {
+    "commitId": "96bc9640884e28c943b1cc81f8ff68d68cb8f6a0",
+    "isDirty": true,
+    "modifiedFiles": [
+      "repo/index-v1.jar",
+      "repo/index-v1.json",
+      "repo/index.jar",
+      "repo/index.xml",
+      "repo/reddit-universal.apk",
+      "repo/status/running.json",
+      "repo/status/update.json"
+    ],
+    "untrackedFiles": [
+      ".gitattributes"
+    ]
+  },
+  "startTimestamp": 1657383084000,
   "subcommand": "update"
 }

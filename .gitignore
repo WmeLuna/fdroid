@@ -6,3 +6,4 @@
 config.yml
 tmp
 *keystore.p12
+*update.sh
