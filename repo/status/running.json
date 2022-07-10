@@ -4,29 +4,32 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "4b2d711d1f0b4e57d7c75b18c5511593abe0cf8e",
+    "commitId": "6c7d4f86623bbacfb4bd681f3ee081e34d659cfc",
     "isDirty": true,
     "modifiedFiles": [
       "repo/index-v1.jar",
       "repo/index-v1.json",
-      "repo/index.html",
       "repo/index.jar",
       "repo/index.xml",
       "repo/status/running.json",
       "repo/status/update.json"
     ],
     "untrackedFiles": [
-      "metadata/tv.twitchmod.android.app.yml",
-      "repo/TwitchMod.apk",
-      "repo/icons-120/tv.twitchmod.android.app.1300000.png",
-      "repo/icons-160/tv.twitchmod.android.app.1300000.png",
-      "repo/icons-240/tv.twitchmod.android.app.1300000.png",
-      "repo/icons-320/tv.twitchmod.android.app.1300000.png",
-      "repo/icons-480/tv.twitchmod.android.app.1300000.png",
-      "repo/icons-640/tv.twitchmod.android.app.1300000.png",
-      "repo/icons/tv.twitchmod.android.app.1300000.png"
+      "repo/com.aliucord.installer/en-US/feature-graphic.png",
+      "repo/com.instagram.android/en-US/feature-graphic.png",
+      "repo/com.liskovsoft.smarttubetv.beta/en-US/feature-graphic.png",
+      "repo/com.reddit.frontpage/en-US/feature-graphic.png",
+      "repo/com.teamsmart.videomanager.tv/en-US/feature-graphic.png",
+      "repo/com.topjohnwu.magisk/en-US/feature-graphic.png",
+      "repo/com.vanced.manager/en-US/feature-graphic.png",
+      "repo/com.xc3fff0e.xmanager/en-US/feature-graphic.png",
+      "repo/io.github.vvb2060.mahoshojo/en-US/feature-graphic.png",
+      "repo/news.androidtv.launchonboot/en-US/feature-graphic.png",
+      "repo/tv.twitchmod.android.app/en-US/feature-graphic.png",
+      "repo/xyz.jmir.tachiyomi.mi/en-US/feature-graphic.png",
+      "repo/xyz.rodit.snapmod/en-US/feature-graphic.png"
     ]
   },
-  "startTimestamp": 1657482218000,
+  "startTimestamp": 1657483303000,
   "subcommand": "update"
 }
