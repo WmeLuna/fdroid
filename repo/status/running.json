@@ -4,18 +4,30 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "7d03e6ff76e54cf181741548d3eea5161d5f03a1",
+    "commitId": "0c01c24c6491d48e413106ee6d0db7896eac407a",
     "isDirty": true,
     "modifiedFiles": [
+      "repo/categories.txt",
       "repo/index-v1.jar",
       "repo/index-v1.json",
+      "repo/index.html",
       "repo/index.jar",
       "repo/index.xml",
       "repo/status/running.json",
       "repo/status/update.json"
     ],
-    "untrackedFiles": []
+    "untrackedFiles": [
+      "metadata/com.teamsmart.videomanager.tv.yml",
+      "repo/icons-120/com.teamsmart.videomanager.tv.689.png",
+      "repo/icons-160/com.teamsmart.videomanager.tv.689.png",
+      "repo/icons-240/com.teamsmart.videomanager.tv.689.png",
+      "repo/icons-320/com.teamsmart.videomanager.tv.689.png",
+      "repo/icons-480/com.teamsmart.videomanager.tv.689.png",
+      "repo/icons-640/com.teamsmart.videomanager.tv.689.png",
+      "repo/icons/com.teamsmart.videomanager.tv.689.png",
+      "repo/smarttube_stable.apk"
+    ]
   },
-  "startTimestamp": 1657415521000,
+  "startTimestamp": 1657473052000,
   "subcommand": "update"
 }
