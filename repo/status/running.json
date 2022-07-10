@@ -4,7 +4,7 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "6a40c4a96f52a5fec026eb09388e46366458b71b",
+    "commitId": "4b2d711d1f0b4e57d7c75b18c5511593abe0cf8e",
     "isDirty": true,
     "modifiedFiles": [
       "repo/index-v1.jar",
@@ -12,29 +12,21 @@
       "repo/index.html",
       "repo/index.jar",
       "repo/index.xml",
-      "repo/smarttube_beta.apk",
       "repo/status/running.json",
       "repo/status/update.json"
     ],
     "untrackedFiles": [
-      "metadata/news.androidtv.launchonboot.yml",
-      "repo/LOBTV.apk",
-      "repo/icons-120/com.liskovsoft.smarttubetv.beta.709.png",
-      "repo/icons-120/news.androidtv.launchonboot.13.png",
-      "repo/icons-160/com.liskovsoft.smarttubetv.beta.709.png",
-      "repo/icons-160/news.androidtv.launchonboot.13.png",
-      "repo/icons-240/com.liskovsoft.smarttubetv.beta.709.png",
-      "repo/icons-240/news.androidtv.launchonboot.13.png",
-      "repo/icons-320/com.liskovsoft.smarttubetv.beta.709.png",
-      "repo/icons-320/news.androidtv.launchonboot.13.png",
-      "repo/icons-480/com.liskovsoft.smarttubetv.beta.709.png",
-      "repo/icons-480/news.androidtv.launchonboot.13.png",
-      "repo/icons-640/com.liskovsoft.smarttubetv.beta.709.png",
-      "repo/icons-640/news.androidtv.launchonboot.13.png",
-      "repo/icons/com.liskovsoft.smarttubetv.beta.709.png",
-      "repo/icons/news.androidtv.launchonboot.13.png"
+      "metadata/tv.twitchmod.android.app.yml",
+      "repo/TwitchMod.apk",
+      "repo/icons-120/tv.twitchmod.android.app.1300000.png",
+      "repo/icons-160/tv.twitchmod.android.app.1300000.png",
+      "repo/icons-240/tv.twitchmod.android.app.1300000.png",
+      "repo/icons-320/tv.twitchmod.android.app.1300000.png",
+      "repo/icons-480/tv.twitchmod.android.app.1300000.png",
+      "repo/icons-640/tv.twitchmod.android.app.1300000.png",
+      "repo/icons/tv.twitchmod.android.app.1300000.png"
     ]
   },
-  "startTimestamp": 1657474932000,
+  "startTimestamp": 1657482218000,
   "subcommand": "update"
 }
