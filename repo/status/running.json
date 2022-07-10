@@ -4,7 +4,7 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "410767d358f58b0699070ee4958c4b5900785c9b",
+    "commitId": "6a40c4a96f52a5fec026eb09388e46366458b71b",
     "isDirty": true,
     "modifiedFiles": [
       "repo/index-v1.jar",
@@ -12,21 +12,29 @@
       "repo/index.html",
       "repo/index.jar",
       "repo/index.xml",
+      "repo/smarttube_beta.apk",
       "repo/status/running.json",
       "repo/status/update.json"
     ],
     "untrackedFiles": [
-      "metadata/com.liskovsoft.smarttubetv.beta.yml",
-      "repo/icons-120/com.liskovsoft.smarttubetv.beta.706.png",
-      "repo/icons-160/com.liskovsoft.smarttubetv.beta.706.png",
-      "repo/icons-240/com.liskovsoft.smarttubetv.beta.706.png",
-      "repo/icons-320/com.liskovsoft.smarttubetv.beta.706.png",
-      "repo/icons-480/com.liskovsoft.smarttubetv.beta.706.png",
-      "repo/icons-640/com.liskovsoft.smarttubetv.beta.706.png",
-      "repo/icons/com.liskovsoft.smarttubetv.beta.706.png",
-      "repo/smarttube_beta.apk"
+      "metadata/news.androidtv.launchonboot.yml",
+      "repo/LOBTV.apk",
+      "repo/icons-120/com.liskovsoft.smarttubetv.beta.709.png",
+      "repo/icons-120/news.androidtv.launchonboot.13.png",
+      "repo/icons-160/com.liskovsoft.smarttubetv.beta.709.png",
+      "repo/icons-160/news.androidtv.launchonboot.13.png",
+      "repo/icons-240/com.liskovsoft.smarttubetv.beta.709.png",
+      "repo/icons-240/news.androidtv.launchonboot.13.png",
+      "repo/icons-320/com.liskovsoft.smarttubetv.beta.709.png",
+      "repo/icons-320/news.androidtv.launchonboot.13.png",
+      "repo/icons-480/com.liskovsoft.smarttubetv.beta.709.png",
+      "repo/icons-480/news.androidtv.launchonboot.13.png",
+      "repo/icons-640/com.liskovsoft.smarttubetv.beta.709.png",
+      "repo/icons-640/news.androidtv.launchonboot.13.png",
+      "repo/icons/com.liskovsoft.smarttubetv.beta.709.png",
+      "repo/icons/news.androidtv.launchonboot.13.png"
     ]
   },
-  "startTimestamp": 1657473487000,
+  "startTimestamp": 1657474932000,
   "subcommand": "update"
 }
