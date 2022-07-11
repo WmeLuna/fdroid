@@ -4,21 +4,19 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "6aad7e81fe6c74bab513b72d5636f3a629425fa1",
+    "commitId": "71d8aec004492e9a1e2e68524eb8143d19a2fe31",
     "isDirty": true,
     "modifiedFiles": [
-      "repo/icons/icon.png",
+      "README.md",
       "repo/index-v1.jar",
       "repo/index-v1.json",
-      "repo/index.html",
       "repo/index.jar",
-      "repo/index.png",
       "repo/index.xml",
       "repo/status/running.json",
       "repo/status/update.json"
     ],
     "untrackedFiles": []
   },
-  "startTimestamp": 1657564151000,
+  "startTimestamp": 1657564805000,
   "subcommand": "update"
 }
