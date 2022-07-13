@@ -4,18 +4,32 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "476bbf597a3808e23d8dbc50d2ef8e7c95695e8b",
+    "commitId": "a1338bc8c9dd9c8fbdc939076cc391060f40af43",
     "isDirty": true,
     "modifiedFiles": [
       "repo/index-v1.jar",
       "repo/index-v1.json",
+      "repo/index.html",
       "repo/index.jar",
       "repo/index.xml",
       "repo/status/running.json",
       "repo/status/update.json"
     ],
-    "untrackedFiles": []
+    "untrackedFiles": [
+      "metadata/com.twidere.twiderex.yml",
+      "metadata/org.adaway.yml",
+      "repo/TwidereX.apk",
+      "repo/adaway.apk",
+      "repo/com.twidere.twiderex/en-US/featureGraphic.png",
+      "repo/com.twidere.twiderex/en-US/featureGraphic_B4iEP8kJK7oldbGR9r_AUrVzprxo1eDEtWtXA8nBVvw=.png",
+      "repo/com.twidere.twiderex/en-US/icon.png",
+      "repo/com.twidere.twiderex/en-US/icon_ln3QduHnHAKOfW0bYAOGVFy1pmGVQyByOyjCyAXTOFk=.png",
+      "repo/org.adaway/en-US/featureGraphic.png",
+      "repo/org.adaway/en-US/featureGraphic_B4iEP8kJK7oldbGR9r_AUrVzprxo1eDEtWtXA8nBVvw=.png",
+      "repo/org.adaway/en-US/icon.png",
+      "repo/org.adaway/en-US/icon_U6_pD6pj7lWBrf-XSxwBuQPG_1Z0bAwgnco76czm3pA=.png"
+    ]
   },
-  "startTimestamp": 1657670432000,
+  "startTimestamp": 1657715229000,
   "subcommand": "update"
 }
