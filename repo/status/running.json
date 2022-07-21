@@ -4,28 +4,18 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "e8144e7bd029f1ded5cd082cc890651d0b615cc7",
+    "commitId": "2cdb97f49ec1bd675cab2007671182a5c9f68b38",
     "isDirty": true,
     "modifiedFiles": [
       "repo/index-v1.jar",
       "repo/index-v1.json",
       "repo/index.jar",
       "repo/index.xml",
-      "repo/magisk-canary.apk",
-      "repo/reddit-universal.apk",
       "repo/status/running.json",
       "repo/status/update.json"
     ],
-    "untrackedFiles": [
-      "repo/icons-120/com.reddit.frontpage.527406.png",
-      "repo/icons-160/com.reddit.frontpage.527406.png",
-      "repo/icons-240/com.reddit.frontpage.527406.png",
-      "repo/icons-320/com.reddit.frontpage.527406.png",
-      "repo/icons-480/com.reddit.frontpage.527406.png",
-      "repo/icons-640/com.reddit.frontpage.527406.png",
-      "repo/icons/com.reddit.frontpage.527406.png"
-    ]
+    "untrackedFiles": []
   },
-  "startTimestamp": 1658414003000,
+  "startTimestamp": 1658414319000,
   "subcommand": "update"
 }
