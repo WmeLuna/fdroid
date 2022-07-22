@@ -1,4 +1,4 @@
-Last repo update was at Thu 21 Jul 2022 06:07:11 PM UTC   
+Last repo update was at Fri 22 Jul 2022 12:00:29 AM UTC   
 ***AdAway*** <sub>(v6.0.2)</sub> was updated on 07/13/22   
 ***Aniyomi*** <sub>(v0.12.3.7)</sub> was updated on 07/09/22   
 ***SnapMod*** <sub>(v1.8.3)</sub> was updated on 07/09/22   
