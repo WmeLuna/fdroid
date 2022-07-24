@@ -4,7 +4,7 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "08c8f4d5b4df019c4531fd4a566631fa2d70cee1",
+    "commitId": "006feaff6db44e4cb518c98bb6bee33c91c51a76",
     "isDirty": true,
     "modifiedFiles": [
       "repo/index-v1.jar",
@@ -16,15 +16,15 @@
       "repo/status/update.json"
     ],
     "untrackedFiles": [
-      "repo/icons-120/com.liskovsoft.smarttubetv.beta.737.png",
-      "repo/icons-160/com.liskovsoft.smarttubetv.beta.737.png",
-      "repo/icons-240/com.liskovsoft.smarttubetv.beta.737.png",
-      "repo/icons-320/com.liskovsoft.smarttubetv.beta.737.png",
-      "repo/icons-480/com.liskovsoft.smarttubetv.beta.737.png",
-      "repo/icons-640/com.liskovsoft.smarttubetv.beta.737.png",
-      "repo/icons/com.liskovsoft.smarttubetv.beta.737.png"
+      "repo/icons-120/com.liskovsoft.smarttubetv.beta.740.png",
+      "repo/icons-160/com.liskovsoft.smarttubetv.beta.740.png",
+      "repo/icons-240/com.liskovsoft.smarttubetv.beta.740.png",
+      "repo/icons-320/com.liskovsoft.smarttubetv.beta.740.png",
+      "repo/icons-480/com.liskovsoft.smarttubetv.beta.740.png",
+      "repo/icons-640/com.liskovsoft.smarttubetv.beta.740.png",
+      "repo/icons/com.liskovsoft.smarttubetv.beta.740.png"
     ]
   },
-  "startTimestamp": 1658534427000,
+  "startTimestamp": 1658620827000,
   "subcommand": "update"
 }
