@@ -4,7 +4,7 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "b4f191ef248fa4b013a1717088e778156d595905",
+    "commitId": "2ad81a0c2d6ada470509a47b1f8b75a57b96e459",
     "isDirty": true,
     "modifiedFiles": [
       "repo/Installer-release.apk",
@@ -25,6 +25,6 @@
     ],
     "untrackedFiles": []
   },
-  "startTimestamp": 1658855187000,
+  "startTimestamp": 1658859189000,
   "subcommand": "update"
 }
