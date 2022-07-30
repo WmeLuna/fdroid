@@ -1,9 +1,10 @@
-AuthorName: ''
 Categories:
-- fdroid
+  - Android Mods
+License: Unknown
+Name: Instander (clone)
+AutoUpdateMode: Version
+UpdateCheckMode: None
+AuthorName: ''
 CurrentVersionCode: 2147483647
-IssueTracker: ''
-Name: Instander
-SourceCode: ''
-Summary: ''
-WebSite: ''
+Description: ' '
+Summary: ' | Instagram'
