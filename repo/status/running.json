@@ -4,7 +4,7 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "362ae05fbf5b1213bb3e0aaef29a095d29568866",
+    "commitId": "7ef098b998ba2356416a34eb9e6d3f01a6833002",
     "isDirty": true,
     "modifiedFiles": [
       "repo/index-v1.jar",
@@ -15,10 +15,10 @@
       "repo/status/update.json"
     ],
     "untrackedFiles": [
-      "repo/com.instander.android/en-US/featureGraphic.png",
-      "repo/com.instander.android/en-US/featureGraphic_B4iEP8kJK7oldbGR9r_AUrVzprxo1eDEtWtXA8nBVvw=.png"
+      "repo/com.instander.android/en-US/icon.png",
+      "repo/com.instander.android/en-US/icon_ai3TcPohucuQor5A4_1xEZWt5K0TkIK8UTsT_JvZL40=.png"
     ]
   },
-  "startTimestamp": 1659211301000,
+  "startTimestamp": 1659211401000,
   "subcommand": "update"
 }
