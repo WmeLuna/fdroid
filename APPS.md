@@ -9,6 +9,7 @@ Last app update on repo was at 07/30/22
 ***Magisk*** <sub>(v9b61bdfc)</sub> was updated on 07/30/22   
 ***Momo*** <sub>(v4.3.1)</sub> was updated on 07/30/22   
 ***Reddit*** <sub>(v2022.27.0)</sub> was updated on 07/30/22   
+***Saikou β*** <sub>(v1.2.0.17)</sub> was updated on 07/30/22   
 ***STN Beta*** <sub>(v15.62)</sub> was updated on 07/30/22   
 ***SmartTube*** <sub>(v15.62)</sub> was updated on 07/30/22   
 ***Snapchat*** <sub>(v11.82.0.32)</sub> was updated on 07/30/22   
