@@ -4,6 +4,7 @@ Last app update on repo was at 07/30/22
 ***SnapMod*** <sub>(v1.8.3)</sub> was updated on 07/09/22   
 ***Aliucord Installer*** <sub>(v1.0.7)</sub> was updated on 07/09/22   
 ***Instagram*** <sub>(v232.0.0.16.114)</sub> was updated on 07/09/22   
+***Instander*** <sub>(v232.0.0.16.114)</sub> was updated on 07/30/22   
 ***Launch on Boot*** <sub>(v1.1.2)</sub> was updated on 07/10/22   
 ***Magisk*** <sub>(v9b61bdfc)</sub> was updated on 07/21/22   
 ***Momo*** <sub>(v4.3.1)</sub> was updated on 07/09/22   

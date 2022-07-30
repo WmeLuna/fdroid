@@ -4,18 +4,30 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "d4eaf4c0a45a8d10267d61d8d34bb2f290aedd5b",
+    "commitId": "1be1fecc12a13730a0dc576268e71d080a0030ba",
     "isDirty": true,
     "modifiedFiles": [
+      "repo/categories.txt",
       "repo/index-v1.jar",
       "repo/index-v1.json",
+      "repo/index.html",
       "repo/index.jar",
       "repo/index.xml",
       "repo/status/running.json",
       "repo/status/update.json"
     ],
-    "untrackedFiles": []
+    "untrackedFiles": [
+      "metadata/com.instander.android.yml",
+      "repo/icons-120/com.instander.android.363204615.png",
+      "repo/icons-160/com.instander.android.363204615.png",
+      "repo/icons-240/com.instander.android.363204615.png",
+      "repo/icons-320/com.instander.android.363204615.png",
+      "repo/icons-480/com.instander.android.363204615.png",
+      "repo/icons-640/com.instander.android.363204615.png",
+      "repo/icons/com.instander.android.363204615.png",
+      "repo/instander-c.apk"
+    ]
   },
-  "startTimestamp": 1659209652000,
+  "startTimestamp": 1659210015000,
   "subcommand": "update"
 }
