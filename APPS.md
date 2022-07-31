@@ -1,4 +1,4 @@
-Last app update on repo was at 07/30/22   
+Last app update on repo was at 07/31/22   
 ***AdAway*** <sub>(v6.0.3)</sub> was updated on 07/30/22   
 ***Aniyomi*** <sub>(v0.12.3.7)</sub> was updated on 07/30/22   
 ***SnapMod*** <sub>(v1.8.3)</sub> was updated on 07/30/22   
