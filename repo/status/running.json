@@ -4,19 +4,21 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "bda0e66547086eb9222625d4d67d55e994cc5b42",
+    "commitId": "a2a5038c64eb7329507f9960376f812f29f6ae92",
     "isDirty": true,
     "modifiedFiles": [
-      "metadata/ani.saikou.beta.yml",
+      ".gitattributes",
+      "repo/aniyomi.apk",
       "repo/index-v1.jar",
       "repo/index-v1.json",
       "repo/index.jar",
       "repo/index.xml",
+      "repo/reddit-universal.apk",
       "repo/status/running.json",
       "repo/status/update.json"
     ],
     "untrackedFiles": []
   },
-  "startTimestamp": 1659227712000,
+  "startTimestamp": 1659230358000,
   "subcommand": "update"
 }
