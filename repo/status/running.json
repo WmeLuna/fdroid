@@ -4,23 +4,23 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "ec0a834fe7d3c5ad8d57246ccc2479f8d3f3a428",
+    "commitId": "1fd1685194532f3d14e05966543402093f64cce3",
     "isDirty": true,
     "modifiedFiles": [
+      "metadata/com.spotify.music.yml",
       "repo/categories.txt",
       "repo/index-v1.jar",
       "repo/index-v1.json",
-      "repo/index.html",
       "repo/index.jar",
       "repo/index.xml",
       "repo/status/running.json",
       "repo/status/update.json"
     ],
     "untrackedFiles": [
-      "metadata/com.spotify.music.yml",
-      "repo/spotify.apk"
+      "repo/com.spotify.music/en-US/featureGraphic.png",
+      "repo/com.spotify.music/en-US/featureGraphic_B4iEP8kJK7oldbGR9r_AUrVzprxo1eDEtWtXA8nBVvw=.png"
     ]
   },
-  "startTimestamp": 1659236940000,
+  "startTimestamp": 1659237311000,
   "subcommand": "update"
 }
