@@ -4,9 +4,10 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "abc76724779b3ec6629c313058ba9a854b5048f4",
+    "commitId": "ec0a834fe7d3c5ad8d57246ccc2479f8d3f3a428",
     "isDirty": true,
     "modifiedFiles": [
+      "repo/categories.txt",
       "repo/index-v1.jar",
       "repo/index-v1.json",
       "repo/index.html",
@@ -15,8 +16,11 @@
       "repo/status/running.json",
       "repo/status/update.json"
     ],
-    "untrackedFiles": []
+    "untrackedFiles": [
+      "metadata/com.spotify.music.yml",
+      "repo/spotify.apk"
+    ]
   },
-  "startTimestamp": 1659235346000,
+  "startTimestamp": 1659236940000,
   "subcommand": "update"
 }

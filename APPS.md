@@ -13,6 +13,7 @@ Last app update on repo was at 07/31/22
 ***STN Beta*** <sub>(v15.62)</sub> was updated on 07/30/22   
 ***SmartTube*** <sub>(v15.62)</sub> was updated on 07/30/22   
 ***Snapchat*** <sub>(v11.82.0.32)</sub> was updated on 07/30/22   
+***Spotify*** <sub>(v8.7.48.1062)</sub> was updated on 07/31/22   
 ***Twidere X*** <sub>(v1.6.0)</sub> was updated on 07/30/22   
 ***TwitchMod*** <sub>(v13.0.0)</sub> was updated on 07/30/22   
 ***Vanced Manager*** <sub>(v2.6.2 (Crimson))</sub> was updated on 07/30/22   
