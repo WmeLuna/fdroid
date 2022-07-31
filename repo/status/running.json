@@ -4,21 +4,19 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "a2a5038c64eb7329507f9960376f812f29f6ae92",
+    "commitId": "abc76724779b3ec6629c313058ba9a854b5048f4",
     "isDirty": true,
     "modifiedFiles": [
-      ".gitattributes",
-      "repo/aniyomi.apk",
       "repo/index-v1.jar",
       "repo/index-v1.json",
+      "repo/index.html",
       "repo/index.jar",
       "repo/index.xml",
-      "repo/reddit-universal.apk",
       "repo/status/running.json",
       "repo/status/update.json"
     ],
     "untrackedFiles": []
   },
-  "startTimestamp": 1659230358000,
+  "startTimestamp": 1659235346000,
   "subcommand": "update"
 }
