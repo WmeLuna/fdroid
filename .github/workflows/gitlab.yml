@@ -27,5 +27,8 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git remote set-url origin https://gitlab.com/WmeLuna/fdroid.git
           git branch -M main
+          wget https://github.com/WmeLuna/fdroid/raw/main/.github/gitlab-ci.yml
+          git add gitlab-ci.yml
+          git commit -m "GitLab Pages" gitlab-ci.yml
           git lfs push --all origin main || ;
           git push -uf origin main || ;
