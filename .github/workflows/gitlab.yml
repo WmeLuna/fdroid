@@ -4,6 +4,7 @@ on:
   workflow_dispatch:
   workflow_run:
     workflows: ["F-Droid Deploy"]
+    types: [ completed ]
   push:
     branches: [ droid ]
 
@@ -26,5 +27,5 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git remote set-url origin https://gitlab.com/WmeLuna/fdroid.git
           git branch -M main
-          git lfs push --all origin main
+          git lfs ls-files -l | awk '{ print $1 }' | xargs git lfs push --object-id origin main
           git push -uf origin main
