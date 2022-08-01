@@ -4,8 +4,6 @@ pages:
   script:
     - mkdir .public
     - cp -r ./* .public
-    - mv .public/repo/* .public
-    - rm -rf .public/repo
     - rm -rf public
     - mv .public public
   artifacts:
