@@ -29,7 +29,7 @@ jobs:
           git remote set-url origin https://gitlab.com/WmeLuna/fdroid.git
           git branch -M main
           wget https://github.com/WmeLuna/fdroid/raw/main/.github/.gitlab-ci.yml
-          git add gitlab-ci.yml
-          git commit -m "GitLab Pages" gitlab-ci.yml
+          git add .gitlab-ci.yml
+          git commit -m "GitLab Pages" .gitlab-ci.yml
           git lfs push --all origin main || echo
           git push -uf origin main || echo
