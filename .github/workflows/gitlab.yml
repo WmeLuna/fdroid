@@ -2,6 +2,8 @@ name: GitLab Mirror
 
 on:
   workflow_dispatch:
+  workflow_run:
+    workflows: ["F-Droid Deploy"]
   push:
     branches: [ droid ]
 
