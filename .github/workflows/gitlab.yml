@@ -26,6 +26,7 @@ jobs:
           git lfs untrack repo/reddit-universal.apk
           git config --local user.email "8895770-WmeLuna@users.noreply.gitlab.com"
           git config --local user.name "WmeLuna"
+          git config lfs.allowincompletepush true
           git remote set-url origin https://gitlab.com/WmeLuna/fdroid.git
           git branch -M main
           wget https://github.com/WmeLuna/fdroid/raw/main/.github/.gitlab-ci.yml

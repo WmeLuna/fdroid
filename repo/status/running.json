@@ -4,9 +4,11 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "61c3958592b8e2f0ead4bf113987547c614e14fd",
+    "commitId": "9a662a5be22f0a0ae124c9a384f93d74126ca94e",
     "isDirty": true,
     "modifiedFiles": [
+      ".github/workflows/gitlab.yml",
+      "metadata/xyz.jmir.tachiyomi.mi.yml",
       "repo/index-v1.jar",
       "repo/index-v1.json",
       "repo/index.jar",
@@ -16,6 +18,6 @@
     ],
     "untrackedFiles": []
   },
-  "startTimestamp": 1663614700000,
+  "startTimestamp": 1663617737000,
   "subcommand": "update"
 }
