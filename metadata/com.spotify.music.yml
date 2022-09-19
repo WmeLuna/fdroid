@@ -1,0 +1,11 @@
+Categories:
+  - Android Mods
+License: Unknown
+
+Name: Spotify
+
+AutoUpdateMode: Version
+UpdateCheckMode: None
+CurrentVersionCode: 2147483647
+Description: 'This is the same as if you were to get it from xManager, im just scraping the api to download the Amoled non-cloned apk directly. Sign in, if not premium then force stop and reopen until you are premium.'
+Summary: ' | Spotify'

@@ -1,0 +1,35 @@
+name: GitLab Mirror
+
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["F-Droid Deploy"]
+    types: [ completed ]
+  push:
+    branches: [ droid ]
+
+jobs:
+  GitLab:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: droid
+      - uses: de-vri-es/setup-git-credentials@v2
+        with:
+          credentials: ${{secrets.GIT_CRED}}
+
+      - name: Push to GitLab
+        run: |
+          echo "This Exists as a backup to make ensure connectivity"
+          git fetch --unshallow origin
+          git lfs untrack repo/reddit-universal.apk
+          git config --local user.email "8895770-WmeLuna@users.noreply.gitlab.com"
+          git config --local user.name "WmeLuna"
+          git remote set-url origin https://gitlab.com/WmeLuna/fdroid.git
+          git branch -M main
+          wget https://github.com/WmeLuna/fdroid/raw/main/.github/.gitlab-ci.yml
+          git add .gitlab-ci.yml
+          git commit -m "GitLab Pages" .gitlab-ci.yml
+          git lfs push --all origin main || echo
+          git push -uf origin main || echo

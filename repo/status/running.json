@@ -1,0 +1,21 @@
+{
+  "/etc/issue.net": "Ubuntu 20.04.5 LTS",
+  "commandLine": [
+    "/usr/bin/fdroid update"
+  ],
+  "fdroiddata": {
+    "commitId": "61c3958592b8e2f0ead4bf113987547c614e14fd",
+    "isDirty": true,
+    "modifiedFiles": [
+      "repo/index-v1.jar",
+      "repo/index-v1.json",
+      "repo/index.jar",
+      "repo/index.xml",
+      "repo/status/running.json",
+      "repo/status/update.json"
+    ],
+    "untrackedFiles": []
+  },
+  "startTimestamp": 1663614700000,
+  "subcommand": "update"
+}
