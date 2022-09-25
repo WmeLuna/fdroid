@@ -4,19 +4,27 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "acc1612dcfbe94a2e4ed8d36c75844bcef41f616",
+    "commitId": "5124fe7789fa845fc1cd403f984f075e6e38e30f",
     "isDirty": true,
     "modifiedFiles": [
-      "repo/app-release.apk",
       "repo/index-v1.jar",
       "repo/index-v1.json",
       "repo/index.jar",
       "repo/index.xml",
+      "repo/reddit-universal.apk",
       "repo/status/running.json",
       "repo/status/update.json"
     ],
-    "untrackedFiles": []
+    "untrackedFiles": [
+      "repo/icons-120/com.reddit.frontpage.589034.png",
+      "repo/icons-160/com.reddit.frontpage.589034.png",
+      "repo/icons-240/com.reddit.frontpage.589034.png",
+      "repo/icons-320/com.reddit.frontpage.589034.png",
+      "repo/icons-480/com.reddit.frontpage.589034.png",
+      "repo/icons-640/com.reddit.frontpage.589034.png",
+      "repo/icons/com.reddit.frontpage.589034.png"
+    ]
   },
-  "startTimestamp": 1663977644000,
+  "startTimestamp": 1664064029000,
   "subcommand": "update"
 }
