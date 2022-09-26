@@ -4,27 +4,27 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "5124fe7789fa845fc1cd403f984f075e6e38e30f",
+    "commitId": "4f9110c074321411b9b40e44405682c0ae3a605a",
     "isDirty": true,
     "modifiedFiles": [
       "repo/index-v1.jar",
       "repo/index-v1.json",
       "repo/index.jar",
       "repo/index.xml",
-      "repo/reddit-universal.apk",
+      "repo/smarttube_beta.apk",
       "repo/status/running.json",
       "repo/status/update.json"
     ],
     "untrackedFiles": [
-      "repo/icons-120/com.reddit.frontpage.589034.png",
-      "repo/icons-160/com.reddit.frontpage.589034.png",
-      "repo/icons-240/com.reddit.frontpage.589034.png",
-      "repo/icons-320/com.reddit.frontpage.589034.png",
-      "repo/icons-480/com.reddit.frontpage.589034.png",
-      "repo/icons-640/com.reddit.frontpage.589034.png",
-      "repo/icons/com.reddit.frontpage.589034.png"
+      "repo/icons-120/com.liskovsoft.smarttubetv.beta.793.png",
+      "repo/icons-160/com.liskovsoft.smarttubetv.beta.793.png",
+      "repo/icons-240/com.liskovsoft.smarttubetv.beta.793.png",
+      "repo/icons-320/com.liskovsoft.smarttubetv.beta.793.png",
+      "repo/icons-480/com.liskovsoft.smarttubetv.beta.793.png",
+      "repo/icons-640/com.liskovsoft.smarttubetv.beta.793.png",
+      "repo/icons/com.liskovsoft.smarttubetv.beta.793.png"
     ]
   },
-  "startTimestamp": 1664064029000,
+  "startTimestamp": 1664150438000,
   "subcommand": "update"
 }
