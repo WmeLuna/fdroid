@@ -4,27 +4,35 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "4f9110c074321411b9b40e44405682c0ae3a605a",
+    "commitId": "9a919be3c762749610553335235384e9b5093c2e",
     "isDirty": true,
     "modifiedFiles": [
+      "repo/Saikou.apk",
       "repo/index-v1.jar",
       "repo/index-v1.json",
       "repo/index.jar",
       "repo/index.xml",
-      "repo/smarttube_beta.apk",
+      "repo/smarttube_stable.apk",
       "repo/status/running.json",
       "repo/status/update.json"
     ],
     "untrackedFiles": [
-      "repo/icons-120/com.liskovsoft.smarttubetv.beta.793.png",
-      "repo/icons-160/com.liskovsoft.smarttubetv.beta.793.png",
-      "repo/icons-240/com.liskovsoft.smarttubetv.beta.793.png",
-      "repo/icons-320/com.liskovsoft.smarttubetv.beta.793.png",
-      "repo/icons-480/com.liskovsoft.smarttubetv.beta.793.png",
-      "repo/icons-640/com.liskovsoft.smarttubetv.beta.793.png",
-      "repo/icons/com.liskovsoft.smarttubetv.beta.793.png"
+      "repo/icons-120/ani.saikou.beta.62.png",
+      "repo/icons-120/com.teamsmart.videomanager.tv.794.png",
+      "repo/icons-160/ani.saikou.beta.62.png",
+      "repo/icons-160/com.teamsmart.videomanager.tv.794.png",
+      "repo/icons-240/ani.saikou.beta.62.png",
+      "repo/icons-240/com.teamsmart.videomanager.tv.794.png",
+      "repo/icons-320/ani.saikou.beta.62.png",
+      "repo/icons-320/com.teamsmart.videomanager.tv.794.png",
+      "repo/icons-480/ani.saikou.beta.62.png",
+      "repo/icons-480/com.teamsmart.videomanager.tv.794.png",
+      "repo/icons-640/ani.saikou.beta.62.png",
+      "repo/icons-640/com.teamsmart.videomanager.tv.794.png",
+      "repo/icons/ani.saikou.beta.62.png",
+      "repo/icons/com.teamsmart.videomanager.tv.794.png"
     ]
   },
-  "startTimestamp": 1664150438000,
+  "startTimestamp": 1664236829000,
   "subcommand": "update"
 }
