@@ -4,7 +4,7 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "9a7f043d9f2fa35622e4c9c1026318efb99f9de9",
+    "commitId": "fa5ca0c1eca88e3777b057a07412668a25cea523",
     "isDirty": true,
     "modifiedFiles": [
       "repo/index-v1.jar",
@@ -12,28 +12,19 @@
       "repo/index.jar",
       "repo/index.xml",
       "repo/smarttube_beta.apk",
-      "repo/smarttube_stable.apk",
       "repo/status/running.json",
-      "repo/status/update.json",
-      "repo/xManager.apk"
+      "repo/status/update.json"
     ],
     "untrackedFiles": [
-      "repo/icons-120/com.liskovsoft.smarttubetv.beta.827.png",
-      "repo/icons-120/com.teamsmart.videomanager.tv.827.png",
-      "repo/icons-160/com.liskovsoft.smarttubetv.beta.827.png",
-      "repo/icons-160/com.teamsmart.videomanager.tv.827.png",
-      "repo/icons-240/com.liskovsoft.smarttubetv.beta.827.png",
-      "repo/icons-240/com.teamsmart.videomanager.tv.827.png",
-      "repo/icons-320/com.liskovsoft.smarttubetv.beta.827.png",
-      "repo/icons-320/com.teamsmart.videomanager.tv.827.png",
-      "repo/icons-480/com.liskovsoft.smarttubetv.beta.827.png",
-      "repo/icons-480/com.teamsmart.videomanager.tv.827.png",
-      "repo/icons-640/com.liskovsoft.smarttubetv.beta.827.png",
-      "repo/icons-640/com.teamsmart.videomanager.tv.827.png",
-      "repo/icons/com.liskovsoft.smarttubetv.beta.827.png",
-      "repo/icons/com.teamsmart.videomanager.tv.827.png"
+      "repo/icons-120/com.liskovsoft.smarttubetv.beta.828.png",
+      "repo/icons-160/com.liskovsoft.smarttubetv.beta.828.png",
+      "repo/icons-240/com.liskovsoft.smarttubetv.beta.828.png",
+      "repo/icons-320/com.liskovsoft.smarttubetv.beta.828.png",
+      "repo/icons-480/com.liskovsoft.smarttubetv.beta.828.png",
+      "repo/icons-640/com.liskovsoft.smarttubetv.beta.828.png",
+      "repo/icons/com.liskovsoft.smarttubetv.beta.828.png"
     ]
   },
-  "startTimestamp": 1667433638000,
+  "startTimestamp": 1667520024000,
   "subcommand": "update"
 }
