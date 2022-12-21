@@ -4,19 +4,36 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "491b1a2bb59756df60695bc98042ac815541e928",
+    "commitId": "cb299439498cd53d849bc8c5a17e19a3eb0b893e",
     "isDirty": true,
     "modifiedFiles": [
       "repo/index-v1.jar",
       "repo/index-v1.json",
       "repo/index.jar",
       "repo/index.xml",
+      "repo/instander-c.apk",
+      "repo/instander.apk",
       "repo/smarttube_beta.apk",
       "repo/status/running.json",
       "repo/status/update.json"
     ],
-    "untrackedFiles": []
+    "untrackedFiles": [
+      "repo/icons-120/com.instagram.android.366308898.png",
+      "repo/icons-120/com.instander.android.366308898.png",
+      "repo/icons-160/com.instagram.android.366308898.png",
+      "repo/icons-160/com.instander.android.366308898.png",
+      "repo/icons-240/com.instagram.android.366308898.png",
+      "repo/icons-240/com.instander.android.366308898.png",
+      "repo/icons-320/com.instagram.android.366308898.png",
+      "repo/icons-320/com.instander.android.366308898.png",
+      "repo/icons-480/com.instagram.android.366308898.png",
+      "repo/icons-480/com.instander.android.366308898.png",
+      "repo/icons-640/com.instagram.android.366308898.png",
+      "repo/icons-640/com.instander.android.366308898.png",
+      "repo/icons/com.instagram.android.366308898.png",
+      "repo/icons/com.instander.android.366308898.png"
+    ]
   },
-  "startTimestamp": 1671408042000,
+  "startTimestamp": 1671580831000,
   "subcommand": "update"
 }
