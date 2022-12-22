@@ -4,7 +4,7 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "cb299439498cd53d849bc8c5a17e19a3eb0b893e",
+    "commitId": "fd183f7ae391afa0b57d47db1285756f1fb444dd",
     "isDirty": true,
     "modifiedFiles": [
       "repo/index-v1.jar",
@@ -17,23 +17,8 @@
       "repo/status/running.json",
       "repo/status/update.json"
     ],
-    "untrackedFiles": [
-      "repo/icons-120/com.instagram.android.366308898.png",
-      "repo/icons-120/com.instander.android.366308898.png",
-      "repo/icons-160/com.instagram.android.366308898.png",
-      "repo/icons-160/com.instander.android.366308898.png",
-      "repo/icons-240/com.instagram.android.366308898.png",
-      "repo/icons-240/com.instander.android.366308898.png",
-      "repo/icons-320/com.instagram.android.366308898.png",
-      "repo/icons-320/com.instander.android.366308898.png",
-      "repo/icons-480/com.instagram.android.366308898.png",
-      "repo/icons-480/com.instander.android.366308898.png",
-      "repo/icons-640/com.instagram.android.366308898.png",
-      "repo/icons-640/com.instander.android.366308898.png",
-      "repo/icons/com.instagram.android.366308898.png",
-      "repo/icons/com.instander.android.366308898.png"
-    ]
+    "untrackedFiles": []
   },
-  "startTimestamp": 1671580831000,
+  "startTimestamp": 1671667239000,
   "subcommand": "update"
 }
