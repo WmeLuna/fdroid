@@ -4,21 +4,19 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "fd183f7ae391afa0b57d47db1285756f1fb444dd",
+    "commitId": "eb111e55ccc458223334995c08f14640b8d1ef69",
     "isDirty": true,
     "modifiedFiles": [
       "repo/index-v1.jar",
       "repo/index-v1.json",
       "repo/index.jar",
       "repo/index.xml",
-      "repo/instander-c.apk",
-      "repo/instander.apk",
-      "repo/smarttube_beta.apk",
+      "repo/smarttube_stable.apk",
       "repo/status/running.json",
       "repo/status/update.json"
     ],
     "untrackedFiles": []
   },
-  "startTimestamp": 1671667239000,
+  "startTimestamp": 1671840024000,
   "subcommand": "update"
 }
