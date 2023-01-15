@@ -4,29 +4,19 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "e3b8e13efa5435706e9a2dac22dfec74d6fc3805",
+    "commitId": "44c8e9caced9ce2c26f3f9583d6c439d5a8cb667",
     "isDirty": true,
     "modifiedFiles": [
-      "repo/icons-120/com.instander.android.366308898.png",
-      "repo/icons-160/com.instander.android.366308898.png",
-      "repo/icons-240/com.instander.android.366308898.png",
-      "repo/icons-320/com.instander.android.366308898.png",
-      "repo/icons-480/com.instander.android.366308898.png",
-      "repo/icons-640/com.instander.android.366308898.png",
-      "repo/icons/com.instander.android.366308898.png",
       "repo/index-v1.jar",
       "repo/index-v1.json",
       "repo/index.jar",
       "repo/index.xml",
-      "repo/instander-c.apk",
-      "repo/instander.apk",
       "repo/smarttube_beta.apk",
-      "repo/smarttube_stable.apk",
       "repo/status/running.json",
       "repo/status/update.json"
     ],
     "untrackedFiles": []
   },
-  "startTimestamp": 1673481640000,
+  "startTimestamp": 1673740830000,
   "subcommand": "update"
 }
