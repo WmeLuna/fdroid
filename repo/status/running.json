@@ -4,19 +4,28 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "dee7bc1e8e8732b52fc7adedba804b5927d6f29e",
+    "commitId": "0d607fc10d10dd94885edfc8235717962f8f96cb",
     "isDirty": true,
     "modifiedFiles": [
       "repo/index-v1.jar",
       "repo/index-v1.json",
       "repo/index.jar",
       "repo/index.xml",
-      "repo/smarttube_beta.apk",
+      "repo/reddit-universal.apk",
+      "repo/spotify.apk",
       "repo/status/running.json",
       "repo/status/update.json"
     ],
-    "untrackedFiles": []
+    "untrackedFiles": [
+      "repo/icons-120/com.reddit.frontpage.744681.png",
+      "repo/icons-160/com.reddit.frontpage.744681.png",
+      "repo/icons-240/com.reddit.frontpage.744681.png",
+      "repo/icons-320/com.reddit.frontpage.744681.png",
+      "repo/icons-480/com.reddit.frontpage.744681.png",
+      "repo/icons-640/com.reddit.frontpage.744681.png",
+      "repo/icons/com.reddit.frontpage.744681.png"
+    ]
   },
-  "startTimestamp": 1675382424000,
+  "startTimestamp": 1675468836000,
   "subcommand": "update"
 }
