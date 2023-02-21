@@ -1,4 +1,4 @@
-Last app update on repo was at 02/20/23   
+Last app update on repo was at 02/21/23   
 ***AdAway*** <sub>(v6.0.3)</sub> was updated on 07/30/22   
 ***Aniyomi*** <sub>(v0.12.3.10)</sub> was updated on 02/10/23   
 ***SnapMod*** <sub>(v1.8.5)</sub> was updated on 09/24/22   
@@ -11,7 +11,7 @@ Last app update on repo was at 02/20/23
 ***Reddit*** <sub>(v2023.04.0)</sub> was updated on 02/04/23   
 ***Saikou β*** <sub>(v1.2.0.24)</sub> was updated on 01/20/23   
 ***STN Beta*** <sub>(v17.20)</sub> was updated on 02/20/23   
-***SmartTube*** <sub>(v16.93)</sub> was updated on 01/26/23   
+***SmartTube*** <sub>(v17.20)</sub> was updated on 02/21/23   
 ***Snapchat*** <sub>(v11.82.0.32)</sub> was updated on 07/30/22   
 ***Spotify*** <sub>(v8.8.4.518)</sub> was updated on 02/04/23   
 ***Twidere X*** <sub>(v1.7.0-beta02)</sub> was updated on 01/31/23   
