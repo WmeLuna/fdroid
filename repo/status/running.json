@@ -1,22 +1,22 @@
 {
-  "/etc/issue.net": "Ubuntu 20.04.5 LTS",
+  "/etc/issue.net": "Ubuntu 20.04.6 LTS",
   "commandLine": [
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "bd8a5aed35420a04f889ea900439d0563722a001",
+    "commitId": "0d2ee10c2e28ff98a8cc8bbb281890f6658baff7",
     "isDirty": true,
     "modifiedFiles": [
       "repo/index-v1.jar",
       "repo/index-v1.json",
       "repo/index.jar",
       "repo/index.xml",
+      "repo/smarttube_beta.apk",
       "repo/status/running.json",
-      "repo/status/update.json",
-      "repo/xManager.apk"
+      "repo/status/update.json"
     ],
     "untrackedFiles": []
   },
-  "startTimestamp": 1678579221000,
+  "startTimestamp": 1679011223000,
   "subcommand": "update"
 }
