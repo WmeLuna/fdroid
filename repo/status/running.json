@@ -4,19 +4,19 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "7d0184e7d3897ac7ea98e8ccb45b723196332031",
+    "commitId": "30c7c51d9329a7f3d6e9184ca87d263818abafe5",
     "isDirty": true,
     "modifiedFiles": [
-      "repo/adaway.apk",
       "repo/index-v1.jar",
       "repo/index-v1.json",
       "repo/index.jar",
       "repo/index.xml",
       "repo/status/running.json",
-      "repo/status/update.json"
+      "repo/status/update.json",
+      "repo/xManager.apk"
     ],
     "untrackedFiles": []
   },
-  "startTimestamp": 1679875225000,
+  "startTimestamp": 1680134424000,
   "subcommand": "update"
 }
