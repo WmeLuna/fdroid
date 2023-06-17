@@ -10,7 +10,7 @@ Last app update on repo was at 06/17/23
 ***Momo*** <sub>(v4.3.1)</sub> was updated on 07/30/22   
 ***Reddit*** <sub>(v2023.04.0)</sub> was updated on 02/04/23   
 ***Saikou*** <sub>(v1.2.3.0)</sub> was updated on 05/05/23   
-***ST Beta*** <sub>(v18.25)</sub> was updated on 06/17/23   
+***ST Beta*** <sub>(v18.26)</sub> was updated on 06/17/23   
 ***SmartTube*** <sub>(v18.23)</sub> was updated on 06/16/23   
 ***Snapchat*** <sub>(v11.82.0.32)</sub> was updated on 07/30/22   
 ***Spotify*** <sub>(v8.8.4.518)</sub> was updated on 02/04/23   
