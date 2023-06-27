@@ -4,19 +4,20 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "aeda641335fa8e0ff984014c49a90a313412186d",
+    "commitId": "815be80e862cf8c9bbf2ceb77046d37986b035b8",
     "isDirty": true,
     "modifiedFiles": [
       "repo/index-v1.jar",
       "repo/index-v1.json",
       "repo/index.jar",
       "repo/index.xml",
-      "repo/smarttube_stable.apk",
+      "repo/magisk-canary.apk",
+      "repo/smarttube_beta.apk",
       "repo/status/running.json",
       "repo/status/update.json"
     ],
     "untrackedFiles": []
   },
-  "startTimestamp": 1687478575000,
+  "startTimestamp": 1687902953000,
   "subcommand": "update"
 }
