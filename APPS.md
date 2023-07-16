@@ -1,4 +1,4 @@
-Last app update on repo was at 07/13/23   
+Last app update on repo was at 07/16/23   
 ***AdAway*** <sub>(v6.1.1)</sub> was updated on 06/21/23   
 ***Aniyomi*** <sub>(v0.12.3.10)</sub> was updated on 02/10/23   
 ***SnapMod*** <sub>(v1.8.5)</sub> was updated on 09/24/22   
@@ -9,12 +9,12 @@ Last app update on repo was at 07/13/23
 ***Magisk*** <sub>(va8c4a33e)</sub> was updated on 06/27/23   
 ***Momo*** <sub>(v4.3.1)</sub> was updated on 07/30/22   
 ***Reddit*** <sub>(v2023.04.0)</sub> was updated on 02/04/23   
-***Saikou β*** <sub>(v1.2.4.9e15756)</sub> was updated on 07/13/23   
-***SmartTube beta*** <sub>(v18.50)</sub> was updated on 07/13/23   
-***SmartTube*** <sub>(v18.28)</sub> was updated on 06/23/23   
+***Saikou*** <sub>(v1.2.5)</sub> was updated on 07/16/23   
+***SmartTube beta*** <sub>(v18.51)</sub> was updated on 07/16/23   
+***SmartTube*** <sub>(v18.50)</sub> was updated on 07/16/23   
 ***Snapchat*** <sub>(v11.82.0.32)</sub> was updated on 07/30/22   
 ***Spotify*** <sub>(v8.8.4.518)</sub> was updated on 02/04/23   
 ***Twidere X*** <sub>(v1.7.0-beta02)</sub> was updated on 01/31/23   
 ***TwitchMod*** <sub>(v13.0.0)</sub> was updated on 07/30/22   
 ***Vanced Manager*** <sub>(v2.6.2 (Crimson))</sub> was updated on 07/30/22   
-***xManager*** <sub>(v4.9)</sub> was updated on 06/05/23   
+***xManager*** <sub>(v5.0)</sub> was updated on 07/16/23   
