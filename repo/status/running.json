@@ -4,7 +4,7 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "d3a0f05dd5fe8aac801e2800b47bcbe9acbf8d35",
+    "commitId": "40c38736ae081894b4150a5531667bf28adc1e62",
     "isDirty": true,
     "modifiedFiles": [
       "repo/Saikou.apk",
@@ -12,20 +12,19 @@
       "repo/index-v1.json",
       "repo/index.jar",
       "repo/index.xml",
-      "repo/smarttube_beta.apk",
       "repo/status/running.json",
       "repo/status/update.json"
     ],
     "untrackedFiles": [
-      "repo/icons-120/ani.saikou.beta.28182630.png",
-      "repo/icons-160/ani.saikou.beta.28182630.png",
-      "repo/icons-240/ani.saikou.beta.28182630.png",
-      "repo/icons-320/ani.saikou.beta.28182630.png",
-      "repo/icons-480/ani.saikou.beta.28182630.png",
-      "repo/icons-640/ani.saikou.beta.28182630.png",
-      "repo/icons/ani.saikou.beta.28182630.png"
+      "repo/icons-120/ani.saikou.beta.28184360.png",
+      "repo/icons-160/ani.saikou.beta.28184360.png",
+      "repo/icons-240/ani.saikou.beta.28184360.png",
+      "repo/icons-320/ani.saikou.beta.28184360.png",
+      "repo/icons-480/ani.saikou.beta.28184360.png",
+      "repo/icons-640/ani.saikou.beta.28184360.png",
+      "repo/icons/ani.saikou.beta.28184360.png"
     ]
   },
-  "startTimestamp": 1691021366000,
+  "startTimestamp": 1691107220000,
   "subcommand": "update"
 }
