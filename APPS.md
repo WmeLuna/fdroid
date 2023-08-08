@@ -1,12 +1,12 @@
-Last app update on repo was at 08/06/23   
+Last app update on repo was at 08/08/23   
 ***AdAway*** <sub>(v6.1.1)</sub> was updated on 06/21/23   
 ***Aniyomi*** <sub>(v0.12.3.10)</sub> was updated on 02/10/23   
 ***SnapMod*** <sub>(v1.8.5)</sub> was updated on 09/24/22   
-***Aliucord Installer*** <sub>(v1.1.1)</sub> was updated on 08/02/23   
+***Aliucord Installer*** <sub>(v1.1.3)</sub> was updated on 08/08/23   
 ***Instagram*** <sub>(v263.2.0.19.104)</sub> was updated on 01/12/23   
 ***Instander*** <sub>(v263.2.0.19.104)</sub> was updated on 01/12/23   
 ***Launch on Boot*** <sub>(v1.1.2)</sub> was updated on 07/30/22   
-***Magisk*** <sub>(vd390ca2f)</sub> was updated on 07/19/23   
+***Magisk*** <sub>(vee34f775)</sub> was updated on 08/08/23   
 ***Momo*** <sub>(v4.3.1)</sub> was updated on 07/30/22   
 ***Reddit*** <sub>(v2023.04.0)</sub> was updated on 02/04/23   
 ***Saikou β*** <sub>(v1.2.5.1dc4335)</sub> was updated on 08/06/23   
