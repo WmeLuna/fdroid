@@ -4,7 +4,7 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "fb8a5c324dbcce054efe0ee9104cb4cde247f947",
+    "commitId": "667bd7cc9ce53f3b68faadda08aee7cdf350e9a6",
     "isDirty": true,
     "modifiedFiles": [
       "repo/Saikou.apk",
@@ -16,15 +16,15 @@
       "repo/status/update.json"
     ],
     "untrackedFiles": [
-      "repo/icons-120/ani.saikou.beta.28217168.png",
-      "repo/icons-160/ani.saikou.beta.28217168.png",
-      "repo/icons-240/ani.saikou.beta.28217168.png",
-      "repo/icons-320/ani.saikou.beta.28217168.png",
-      "repo/icons-480/ani.saikou.beta.28217168.png",
-      "repo/icons-640/ani.saikou.beta.28217168.png",
-      "repo/icons/ani.saikou.beta.28217168.png"
+      "repo/icons-120/ani.saikou.beta.28218850.png",
+      "repo/icons-160/ani.saikou.beta.28218850.png",
+      "repo/icons-240/ani.saikou.beta.28218850.png",
+      "repo/icons-320/ani.saikou.beta.28218850.png",
+      "repo/icons-480/ani.saikou.beta.28218850.png",
+      "repo/icons-640/ani.saikou.beta.28218850.png",
+      "repo/icons/ani.saikou.beta.28218850.png"
     ]
   },
-  "startTimestamp": 1693094420000,
+  "startTimestamp": 1693180850000,
   "subcommand": "update"
 }
