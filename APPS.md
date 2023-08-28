@@ -6,7 +6,7 @@ Last app update on repo was at 08/28/23
 ***Instagram*** <sub>(v263.2.0.19.104)</sub> was updated on 01/12/23   
 ***Instander*** <sub>(v263.2.0.19.104)</sub> was updated on 01/12/23   
 ***Launch on Boot*** <sub>(v1.1.2)</sub> was updated on 07/30/22   
-***Magisk*** <sub>(vee34f775)</sub> was updated on 08/08/23   
+***Magisk*** <sub>(ve47e869f)</sub> was updated on 08/28/23   
 ***Momo*** <sub>(v4.3.1)</sub> was updated on 07/30/22   
 ***Reddit*** <sub>(v2023.04.0)</sub> was updated on 02/04/23   
 ***Saikou β*** <sub>(v1.2.5.0d2da2e)</sub> was updated on 08/28/23   
