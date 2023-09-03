@@ -4,29 +4,19 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "dfafe403ed0a3ce06b84525c017865cecad3afc9",
+    "commitId": "71afc41d81c12a35995b8fced5616754a6a42673",
     "isDirty": true,
     "modifiedFiles": [
-      "repo/Saikou.apk",
       "repo/index-v1.jar",
       "repo/index-v1.json",
       "repo/index.jar",
       "repo/index.xml",
       "repo/magisk-canary.apk",
-      "repo/smarttube_beta.apk",
       "repo/status/running.json",
       "repo/status/update.json"
     ],
-    "untrackedFiles": [
-      "repo/icons-120/ani.saikou.beta.28223378.png",
-      "repo/icons-160/ani.saikou.beta.28223378.png",
-      "repo/icons-240/ani.saikou.beta.28223378.png",
-      "repo/icons-320/ani.saikou.beta.28223378.png",
-      "repo/icons-480/ani.saikou.beta.28223378.png",
-      "repo/icons-640/ani.saikou.beta.28223378.png",
-      "repo/icons/ani.saikou.beta.28223378.png"
-    ]
+    "untrackedFiles": []
   },
-  "startTimestamp": 1693440026000,
+  "startTimestamp": 1693699226000,
   "subcommand": "update"
 }
