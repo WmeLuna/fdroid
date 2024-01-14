@@ -1,6 +1,6 @@
-Last app update on repo was at 01/13/24   
+Last app update on repo was at 01/14/24   
 ***AdAway*** <sub>(v6.1.1)</sub> was updated on 06/21/23   
-***Aniyomi*** <sub>(v0.12.3.10)</sub> was updated on 02/10/23   
+***Aniyomi*** <sub>(v0.15.2.0)</sub> was updated on 01/14/24   
 ***SnapMod*** <sub>(v1.8.5)</sub> was updated on 09/24/22   
 ***Aliucord Installer*** <sub>(v1.1.3)</sub> was updated on 08/08/23   
 ***Instagram*** <sub>(v263.2.0.19.104)</sub> was updated on 01/12/23   
@@ -10,7 +10,7 @@ Last app update on repo was at 01/13/24
 ***Momo*** <sub>(v4.3.1)</sub> was updated on 07/30/22   
 ***Reddit*** <sub>(v2023.04.0)</sub> was updated on 02/04/23   
 ***Saikou β*** <sub>(v1.2.5.b56c7fd)</sub> was updated on 09/16/23   
-***SmartTube beta*** <sub>(v20.69)</sub> was updated on 01/13/24   
+***SmartTube beta*** <sub>(v20.76)</sub> was updated on 01/14/24   
 ***SmartTube*** <sub>(v20.56)</sub> was updated on 01/01/24   
 ***Snapchat*** <sub>(v11.82.0.32)</sub> was updated on 07/30/22   
 ***Spotify*** <sub>(v8.8.4.518)</sub> was updated on 02/04/23   
