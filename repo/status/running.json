@@ -4,19 +4,19 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "01b48abcd0d91e2c73d21a6e9c2ce3c05e4d4c28",
+    "commitId": "b54089500a19c46e5a562d58ec74951a014ffa52",
     "isDirty": true,
     "modifiedFiles": [
+      "repo/aniyomi.apk",
       "repo/index-v1.jar",
       "repo/index-v1.json",
       "repo/index.jar",
       "repo/index.xml",
       "repo/status/running.json",
-      "repo/status/update.json",
-      "repo/xManager.apk"
+      "repo/status/update.json"
     ],
     "untrackedFiles": []
   },
-  "startTimestamp": 1714780835000,
+  "startTimestamp": 1715385629000,
   "subcommand": "update"
 }
