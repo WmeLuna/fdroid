@@ -1,5 +1,5 @@
-Last app update on repo was at 06/18/24   
-***AdAway*** <sub>(v6.1.1)</sub> was updated on 06/21/23   
+Last app update on repo was at 06/22/24   
+***AdAway*** <sub>(v6.1.2)</sub> was updated on 06/22/24   
 ***Aniyomi*** <sub>(v0.15.3.0)</sub> was updated on 05/11/24   
 ***SnapMod*** <sub>(v1.8.5)</sub> was updated on 09/24/22   
 ***Aliucord Installer*** <sub>(v1.1.4)</sub> was updated on 03/13/24   
