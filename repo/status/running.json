@@ -4,19 +4,19 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "545f3dc28e2a0bfd68abd4ca765429836c5d495f",
+    "commitId": "e2cc6089f73f2a464448f5f6a4f3e38a6d5fd603",
     "isDirty": true,
     "modifiedFiles": [
       "repo/index-v1.jar",
       "repo/index-v1.json",
       "repo/index.jar",
       "repo/index.xml",
-      "repo/magisk-canary.apk",
       "repo/status/running.json",
-      "repo/status/update.json"
+      "repo/status/update.json",
+      "repo/xManager.apk"
     ],
     "untrackedFiles": []
   },
-  "startTimestamp": 1720828829000,
+  "startTimestamp": 1721174422000,
   "subcommand": "update"
 }
