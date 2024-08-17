@@ -1,8 +1,8 @@
-Last app update on repo was at 08/16/24   
+Last app update on repo was at 08/17/24   
 ***AdAway*** <sub>(v6.1.3)</sub> was updated on 07/07/24   
 ***Aniyomi*** <sub>(v0.16.4.3)</sub> was updated on 07/02/24   
 ***SnapMod*** <sub>(v1.8.5)</sub> was updated on 09/24/22   
-***Aliucord Installer*** <sub>(v1.1.4)</sub> was updated on 03/13/24   
+***Aliucord Installer*** <sub>(v1.2.0)</sub> was updated on 08/17/24   
 ***Instagram*** <sub>(v263.2.0.19.104)</sub> was updated on 01/12/23   
 ***Instander*** <sub>(v263.2.0.19.104)</sub> was updated on 01/12/23   
 ***Launch on Boot*** <sub>(v1.1.2)</sub> was updated on 07/30/22   
