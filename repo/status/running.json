@@ -4,7 +4,7 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "f8390439dc35688b3cf7ec202d82a41ddbddd31f",
+    "commitId": "21169dbb63f9258a2c0dc8a584a6afaf20f279b8",
     "isDirty": true,
     "modifiedFiles": [
       "repo/index-v1.jar",
@@ -17,6 +17,6 @@
     ],
     "untrackedFiles": []
   },
-  "startTimestamp": 1725753622000,
+  "startTimestamp": 1725840030000,
   "subcommand": "update"
 }
