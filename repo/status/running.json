@@ -4,19 +4,19 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "771a1b3d051773d40ecdbe53ccd5dbc716bc0c1d",
+    "commitId": "58403be1f39220dc77fb5af520973a73b3ac77d8",
     "isDirty": true,
     "modifiedFiles": [
       "repo/index-v1.jar",
       "repo/index-v1.json",
       "repo/index.jar",
       "repo/index.xml",
-      "repo/smarttube_stable.apk",
+      "repo/smarttube_beta.apk",
       "repo/status/running.json",
       "repo/status/update.json"
     ],
     "untrackedFiles": []
   },
-  "startTimestamp": 1728518436000,
+  "startTimestamp": 1728604827000,
   "subcommand": "update"
 }
