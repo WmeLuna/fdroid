@@ -4,25 +4,19 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "6eaac821b65d0ab569fa65492845c6d90505ba1b",
+    "commitId": "2660291a0e0f3e42a1b9d46e3a488865caff91e8",
     "isDirty": true,
     "modifiedFiles": [
-      "repo/aniyomi.apk",
-      "repo/aniyomi.apk.aria2",
       "repo/index-v1.jar",
       "repo/index-v1.json",
       "repo/index.jar",
       "repo/index.xml",
-      "repo/reddit-universal.apk",
-      "repo/reddit-universal.apk.aria2",
+      "repo/smarttube_beta.apk",
       "repo/status/running.json",
       "repo/status/update.json"
     ],
-    "untrackedFiles": [
-      "repo/323d006fc8583b4cc73357048acdd4e9cd6cd77e4b5f654f906f813f40e1ff95/en-US/featureGraphic.png",
-      "repo/5b681edfa3d0d751c9b34a73387f70c42384b133d33397e6e94c637c51ccffaa/en-US/featureGraphic.png"
-    ]
+    "untrackedFiles": []
   },
-  "startTimestamp": 1734220866000,
+  "startTimestamp": 1734566462000,
   "subcommand": "update"
 }
