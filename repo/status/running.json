@@ -4,7 +4,7 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "a6bfc4893f24c299abf702de024e9dcd2730d4bb",
+    "commitId": "63a60f888a28ffde88c69b61364f13df622dbd94",
     "isDirty": true,
     "modifiedFiles": [
       "repo/index-v1.jar",
@@ -15,8 +15,16 @@
       "repo/status/running.json",
       "repo/status/update.json"
     ],
-    "untrackedFiles": []
+    "untrackedFiles": [
+      "repo/icons-120/com.liskovsoft.smarttubetv.beta.1787.png",
+      "repo/icons-160/com.liskovsoft.smarttubetv.beta.1787.png",
+      "repo/icons-240/com.liskovsoft.smarttubetv.beta.1787.png",
+      "repo/icons-320/com.liskovsoft.smarttubetv.beta.1787.png",
+      "repo/icons-480/com.liskovsoft.smarttubetv.beta.1787.png",
+      "repo/icons-640/com.liskovsoft.smarttubetv.beta.1787.png",
+      "repo/icons/com.liskovsoft.smarttubetv.beta.1787.png"
+    ]
   },
-  "startTimestamp": 1739059263000,
+  "startTimestamp": 1739145625000,
   "subcommand": "update"
 }
