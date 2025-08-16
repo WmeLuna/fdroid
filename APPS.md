@@ -1,4 +1,4 @@
-Last app update on repo was at 08/13/25   
+Last app update on repo was at 08/16/25   
 ***AdAway*** <sub>(v6.1.4)</sub> was updated on 10/28/24   
 ***Aniyomi*** <sub>(v0.18.0.1)</sub> was updated on 07/07/25   
 ***SnapMod*** <sub>(v1.8.5)</sub> was updated on 09/24/22   
@@ -17,4 +17,4 @@ Last app update on repo was at 08/13/25
 ***Twidere X*** <sub>(v1.7.0-beta02)</sub> was updated on 01/31/23   
 ***TwitchMod*** <sub>(v13.0.0)</sub> was updated on 07/30/22   
 ***Vanced Manager*** <sub>(v2.6.2 (Crimson))</sub> was updated on 07/30/22   
-***xManager*** <sub>(v5.8)</sub> was updated on 01/09/25   
+***xManager*** <sub>(v5.9)</sub> was updated on 08/16/25   
