@@ -1,9 +1,0 @@
-*.ks
-*.jks
-*.keystore
-*.crt
-*config.py
-config.yml
-tmp
-*keystore.p12
-*update.sh
